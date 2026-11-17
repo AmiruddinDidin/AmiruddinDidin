@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/didin-amiruddin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-didin--amiruddin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://YOUR-USERNAME.github.io"><img alt="Interactive CV" src="https://img.shields.io/badge/Interactive%20CV-visit-9ff0cc?style=flat-square"></a>
+  <a href="https://amiruddindidin.github.io/Didin-s-CV/"><img alt="Interactive CV" src="https://img.shields.io/badge/Interactive%20CV-visit-9ff0cc?style=flat-square"></a>
   <img alt="GPA" src="https://img.shields.io/badge/GPA-3.80-a6dcf7?style=flat-square">
 </p>
 
